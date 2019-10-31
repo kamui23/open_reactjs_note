@@ -1,0 +1,7 @@
+.App-listing-container, .App-form-container {
+	max-width: 90vmin;
+	margin: auto;
+}
+.App-form-container {
+	margin-top: 14px;
+}
